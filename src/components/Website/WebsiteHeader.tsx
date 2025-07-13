@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { useNavigate, useLocation } from 'react-router-dom';
+//import { useNavigate, useLocation } from 'react-router-dom';
 import { Search, Menu, X, Heart } from 'lucide-react';
 import { useFavorites } from '../../contexts/FavoritesContext';
 import OptimizedImage from '../UI/OptimizedImage';
