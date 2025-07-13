@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { useParams, useNavigate } from 'react-router-dom';
+//import { useParams, useNavigate } from 'react-router-dom';
 import { Search, Filter, Heart, ChevronDown, ChevronLeft, ChevronRight } from 'lucide-react';
 import { formatPriceWithSale } from '../../utils/priceUtils';
 import { apiService } from '../../services/api';

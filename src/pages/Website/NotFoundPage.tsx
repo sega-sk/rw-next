@@ -1,5 +1,5 @@
 import React from 'react';
-import { useNavigate } from 'react-router-dom';
+//import { useNavigate } from 'react-router-dom';
 import { Home, ArrowLeft, Search, Film } from 'lucide-react';
 import SEOHead from '../../components/UI/SEOHead';
 

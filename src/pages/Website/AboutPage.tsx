@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { useNavigate } from 'react-router-dom';
+//import { useNavigate } from 'react-router-dom';
 import { Search, Heart, Phone, Mail, MapPin, Users, Award, Clock, Star } from 'lucide-react';
 import SearchModal from '../../components/Website/SearchModal';
 import { useFavorites } from '../../contexts/FavoritesContext';

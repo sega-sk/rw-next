@@ -1,5 +1,5 @@
 import React from 'react';
-import { useNavigate } from 'react-router-dom';
+//import { useNavigate } from 'react-router-dom';
 import { Search, Heart, ArrowLeft, Trash2 } from 'lucide-react';
 import { useFavorites } from '../../contexts/FavoritesContext';
 import { apiService } from '../../services/api';

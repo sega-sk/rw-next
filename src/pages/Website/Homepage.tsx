@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { ChevronLeft, ChevronRight, Search, Heart, MapPin, Phone, Mail, Play, Pause } from 'lucide-react';
-import { useNavigate } from 'react-router-dom';
+//import { useNavigate } from 'react-router-dom';
 import StyledAlert from '../../components/UI/StyledAlert';
 import { apiService } from '../../services/api';
 import { useApi } from '../../hooks/useApi';

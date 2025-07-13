@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { useParams, useNavigate } from 'react-router-dom';
+//import { useParams, useNavigate } from 'react-router-dom';
 import { Search, Heart, ChevronDown, ChevronLeft, ChevronRight, Play, Pause, X, Check, ArrowLeft } from 'lucide-react';
 import { formatPriceWithSale } from '../../utils/priceUtils';
 import { leadsService } from '../../services/leads';
